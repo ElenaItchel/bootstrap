@@ -1,0 +1,20 @@
+nav ul{ 
+	list-style-type: none;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	margin: 0 -15px 0 0;
+	margin-left: 300px;
+	float: center;
+	font-size: 16px;
+	line-height: 14px;
+	font-family: helvetica;
+	text-align: center;
+}
+nav li{
+	position: relative;
+	float: left;
+}
+nav a{
+	text-decoration: black;
+	padding: 10px 15px;
+}/* Inserta tu código aqui */
